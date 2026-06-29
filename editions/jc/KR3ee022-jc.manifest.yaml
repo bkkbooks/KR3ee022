@@ -1,0 +1,460 @@
+canonical_identifier: bkk:krp/KR3ee022/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ee022/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 經穴匯解
+  identifiers:
+    krp: KR3ee022
+  tags:
+    kr-categories: KR3ee
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ee022.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ee022_000-jc.yaml, hash: 'sha256:c240f7f6f05c8eb3bf05128bbfebe46aefbef622a9473fbf895d04e29c85b27e'}
+  - {seq: 1, filename: KR3ee022_001-jc.yaml, hash: 'sha256:c0e29b3fdf4d22ec39d63a7f0c9d84cda5ed5bfdccbb77c60b56de7df2818829'}
+  - {seq: 2, filename: KR3ee022_002-jc.yaml, hash: 'sha256:dba7900b313d7dab0fe330c9a7ac61f2af32448412df960554cd1dcb2092e19e'}
+  - {seq: 3, filename: KR3ee022_003-jc.yaml, hash: 'sha256:d2a91ee316b91c45945e1be236afd2b74f6ab4cb97acfb7c5532c710c24094fd'}
+  - {seq: 4, filename: KR3ee022_004-jc.yaml, hash: 'sha256:3c48813ebfc6e5092f05ff93a977d9a9cd7b94218c6f073b2182f590e8a97e68'}
+  - {seq: 5, filename: KR3ee022_005-jc.yaml, hash: 'sha256:3fe33e2f7e6c83fa11cae738ddc8acbd6bb1654ed0a8548dfb059a337bc4bc67'}
+  - {seq: 6, filename: KR3ee022_006-jc.yaml, hash: 'sha256:bfa85156ad5fe70e377f79b5a4fa530c1a9e13c2a01d9c39a209102582b96ce9'}
+  - {seq: 7, filename: KR3ee022_007-jc.yaml, hash: 'sha256:215c67b4c48ba14742e148df3cbd61f2c7bd6ce909da3e09c30152f479d343b0'}
+  - {seq: 8, filename: KR3ee022_008-jc.yaml, hash: 'sha256:a53f68eb0ca3e3c93dceede2fa356e48bcc9ccc3c715821743a39d52e4cf7b70'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ee022_000-jc.markers.yaml, hash: 'sha256:367a50a633419f0f2cdeb1a7201ef7647597488d618ada9664cb314db419e546'}
+  - {seq: 1, role: markers, filename: assets/KR3ee022_001-jc.markers.yaml, hash: 'sha256:59ed7fdb4bdeb211f1fcdcb75c66e61c5e966347da1f742765b13b8ab7aced4e'}
+  - {seq: 2, role: markers, filename: assets/KR3ee022_002-jc.markers.yaml, hash: 'sha256:629fea6dda70a4cb7357b5f90d90cc5113e428f732621f1c39f1d7f161ad5176'}
+  - {seq: 3, role: markers, filename: assets/KR3ee022_003-jc.markers.yaml, hash: 'sha256:d801cc0a5efdb6889e2d293016e4c9c0f1d5a10ded296c3f0943eed1d096a981'}
+  - {seq: 4, role: markers, filename: assets/KR3ee022_004-jc.markers.yaml, hash: 'sha256:6889051b6ca4fcc4c9c4678766f8711c37ab2e140bbf9b6ab32715151d301b6c'}
+  - {seq: 5, role: markers, filename: assets/KR3ee022_005-jc.markers.yaml, hash: 'sha256:307890c81b4c0f9df697c6fe6fd5e3d3ff152a34a63171fc443b4e72437edfde'}
+  - {seq: 6, role: markers, filename: assets/KR3ee022_006-jc.markers.yaml, hash: 'sha256:0d92a6a71db60632cf3cb1dda731b1853041aca9b2bce702c6b803461f7ae5d6'}
+  - {seq: 7, role: markers, filename: assets/KR3ee022_007-jc.markers.yaml, hash: 'sha256:466cd4a51b6c094ee87afd9657c8946a91727ed5924eb08b353092aa4588848b'}
+  - {seq: 8, role: markers, filename: assets/KR3ee022_008-jc.markers.yaml, hash: 'sha256:2a082adea33af27868ea42a7407ad8474580a0184c80897b074ce9648d61d39f'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ee022_jc_000-d3.h1s1
+    span:
+    - front
+    - 0
+    - 211
+  label: 自序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee022_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 439
+  label: 敘
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee022_jc_000-d4.h1s1
+    span:
+    - body
+    - 439
+    - 1516
+  label: 凡例
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ee022_jc_001-d5.h1s1
+    span:
+    - body
+    - 0
+    - 11004
+  label: 卷之一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ee022_jc_001-d5d2
+    span:
+    - body
+    - 3
+    - 1254
+  label: 折量分寸法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee022_jc_001-d5d3
+    span:
+    - body
+    - 1254
+    - 9811
+  label: 頭面部第一
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee022_jc_001-d5d4
+    span:
+    - body
+    - 9811
+    - 11004
+  label: 項頸部第二
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee022_jc_002-d6.h1s1
+    span:
+    - body
+    - 0
+    - 8378
+  label: 卷之二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ee022_jc_002-d6d2
+    span:
+    - body
+    - 3
+    - 1182
+  label: 肩部第三
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee022_jc_002-d6d3
+    span:
+    - body
+    - 1182
+    - 8378
+  label: 背腰部第四
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee022_jc_003-d7.h1s1
+    span:
+    - body
+    - 0
+    - 12603
+  label: 卷之三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ee022_jc_003-d7d2
+    span:
+    - body
+    - 3
+    - 2432
+  label: 胸部第五
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee022_jc_003-d7d3
+    span:
+    - body
+    - 2432
+    - 10447
+  label: 腹部第六
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee022_jc_003-d7d4
+    span:
+    - body
+    - 10447
+    - 12603
+  label: 側脅部第七
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee022_jc_004-d8.h1s1
+    span:
+    - body
+    - 0
+    - 7792
+  label: 卷之四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3ee022_jc_004-d8d2
+    span:
+    - body
+    - 3
+    - 7792
+  label: 手部第八
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ee022_jc_005-d9.h1s1
+    span:
+    - body
+    - 0
+    - 9738
+  label: 卷之五
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3ee022_jc_005-d9d2
+    span:
+    - body
+    - 3
+    - 9738
+  label: 足部第九並圖
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ee022_jc_006-d10.h1s1
+    span:
+    - body
+    - 0
+    - 11891
+  label: 卷之六
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3ee022_jc_006-d10d2
+    span:
+    - body
+    - 3
+    - 11891
+  label: 經脈流注第十
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ee022_jc_006-d10.d2d8
+    span:
+    - body
+    - 385
+    - 985
+  label: 手太陰肺經
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee022_jc_006-d10.d2d9
+    span:
+    - body
+    - 985
+    - 1645
+  label: 手陽明大腸經
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee022_jc_006-d10.d2d10
+    span:
+    - body
+    - 1645
+    - 3124
+  label: 足陽明胃經
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee022_jc_006-d10.d2d11
+    span:
+    - body
+    - 3124
+    - 3670
+  label: 足太陰脾經
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee022_jc_006-d10.d2d12
+    span:
+    - body
+    - 3670
+    - 4131
+  label: 手少陰心經
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee022_jc_006-d10.d2d13
+    span:
+    - body
+    - 4131
+    - 4891
+  label: 手太陽小腸經
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee022_jc_006-d10.d2d14
+    span:
+    - body
+    - 4891
+    - 6406
+  label: 足太陽膀胱經
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee022_jc_006-d10.d2d15
+    span:
+    - body
+    - 6406
+    - 7000
+  label: 足少陰腎經
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee022_jc_006-d10.d2d16
+    span:
+    - body
+    - 7000
+    - 7394
+  label: 手厥陰心包經
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee022_jc_006-d10.d2d17
+    span:
+    - body
+    - 7394
+    - 8234
+  label: 手少陽三焦經
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee022_jc_006-d10.d2d18
+    span:
+    - body
+    - 8234
+    - 9812
+  label: 足少陽膽經
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee022_jc_006-d10.d2d19
+    span:
+    - body
+    - 9812
+    - 10304
+  label: 足厥陰肝經
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee022_jc_006-d10.d2d20
+    span:
+    - body
+    - 10304
+    - 11127
+  label: 督脈
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee022_jc_006-d10.d2d21
+    span:
+    - body
+    - 11127
+    - 11891
+  label: 任脈
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ee022_jc_007-d11.h1s1
+    span:
+    - body
+    - 0
+    - 11474
+  label: 卷之七
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR3ee022_jc_007-d11d2
+    span:
+    - body
+    - 3
+    - 11474
+  label: 奇穴部第十一
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ee022_jc_007-d11.d2d4
+    span:
+    - body
+    - 371
+    - 3229
+  label: 頭面第一
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ee022_jc_007-d11.d2d5
+    span:
+    - body
+    - 3229
+    - 7913
+  label: 背腰部第二
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ee022_jc_007-d11.d2d6
+    span:
+    - body
+    - 7913
+    - 11474
+  label: 胸腹部第三
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ee022_jc_008-d12.h1s1
+    span:
+    - body
+    - 0
+    - 8123
+  label: 卷之八
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR3ee022_jc_008-d12d2
+    span:
+    - body
+    - 3
+    - 8123
+  label: 奇穴部第十二
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ee022_jc_008-d12.d2d2
+    span:
+    - body
+    - 9
+    - 8123
+  label: 四肢第四
+  type: section
+  level: 3
+hash: sha256:ce107e16f74b4d211ace6783eca894ce9cd217e651a61bca190bc9a7550fdee8
